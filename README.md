@@ -41,7 +41,9 @@ Programming Language: Python
 Libraries/Frameworks: Tkinter, Pandas, NumPy, Scikit-learn 
 Tools/Platforms: Infosys Springboard, Jupyter Notebook, Google colab
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dea348b0-127a-4e2a-bf30-3c9be70e5a69" />
+## ARCHITECTURE DIAGRAM
+<img width="831" height="687" alt="image" src="https://github.com/user-attachments/assets/fee3b489-7098-46ba-868c-ebc757eefff2" />
+
 
 
 
