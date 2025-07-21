@@ -45,6 +45,19 @@ Tools/Platforms: Infosys Springboard, Jupyter Notebook, Google colab
 <img width="831" height="687" alt="image" src="https://github.com/user-attachments/assets/fee3b489-7098-46ba-868c-ebc757eefff2" />
 
 
+## DEVELOPMENT
+
+Technologies Used: Python, Tkinter, and Scikit-learn for GUI and ML integration. Coding Standards: Modular design with separation of logic and interface. Challenges: Dataset preprocessing and managing GUI-ML interaction. Solutions: Optimized data pipelines and modular architecture for seamless integration.
+
+## TESTING
+
+Unit, Integration, and System Tests conducted to validate input handling, BMI classification, and recommendations. Results: System achieved 95% accuracy in food suggestions.
+
+## CONCLUSION
+
+The Nutrition Recommendation System effectively delivers personalized dietary suggestions through advanced machine learning and user-friendly design. Future improvements include integrating real-time data and enhancing GUI for a broader reach.
+
+
 
 
 
