@@ -40,3 +40,10 @@ Non-Functional Requirements
 Programming Language: Python 
 Libraries/Frameworks: Tkinter, Pandas, NumPy, Scikit-learn 
 Tools/Platforms: Infosys Springboard, Jupyter Notebook, Google colab
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dea348b0-127a-4e2a-bf30-3c9be70e5a69" />
+
+
+
+
+
