@@ -38,7 +38,7 @@ Non-Functional Requirements
 ## TECHNICAL STACK
 
 Programming Language: Python 
-Libraries/Frameworks: Tkinter, Pandas, NumPy, Scikit-learn 
+Libraries/Frameworks: Pandas, NumPy, Scikit-learn 
 Tools/Platforms: Infosys Springboard, Jupyter Notebook, Google colab
 
 ## ARCHITECTURE DIAGRAM
